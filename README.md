@@ -21,3 +21,6 @@
 - Usar a função keys para pegar as chaves;
 - Usar a função values para pegar os valores;
 - Percorrer linha a linha com a função items.
+- Contar quantas vezes aparece uma palavra;
+- Utilizar o default dict;
+- Utilizar o Counter para contar valores.

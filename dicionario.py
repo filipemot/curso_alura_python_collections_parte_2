@@ -1,3 +1,6 @@
+from collections import defaultdict
+from collections import Counter
+
 aparicoes = {
     "Guilherme": 1,
     "Cachorro": 2,
@@ -31,3 +34,11 @@ for elemento in aparicoes.keys():
 #Listando os Item "Desempacotando em Variável"
 for elemento, chave in aparicoes.items():
     print(elemento, chave)
+
+#Dicionario Padrao para não ter problemas de nao encontrar chave
+aparicoes = defaultdict(int)
+
+#Contagem de Palavras
+minha_palavra = "Meu nome é Filipe, o seu nome é Carlos"
+aparicoes_contador = Counter(minha_palavra.lower().split())
+print(aparicoes_contador)
