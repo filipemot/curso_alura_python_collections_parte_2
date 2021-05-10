@@ -11,3 +11,13 @@
 - Congelar o conjunto com o frozenset;
 - Tirar a duplicidade de uma String;
 - Adicionar elementos no conjunto.
+- O que é um dicionário;
+- Verificar se o elemento está dentro do dicionário;
+- Utilizar o get para verificação;
+- Criar um dicionário a partir do dict;
+- Adicionar um elemento no dicionário;
+- Remover um elemento do dicionário;
+- Mostrar os elementos dentro do dicionário;
+- Usar a função keys para pegar as chaves;
+- Usar a função values para pegar os valores;
+- Percorrer linha a linha com a função items.
