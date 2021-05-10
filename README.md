@@ -24,3 +24,5 @@
 - Contar quantas vezes aparece uma palavra;
 - Utilizar o default dict;
 - Utilizar o Counter para contar valores.
+- Mostrar o quão frequente são as letras;
+- Ver aparições de elementos e o total de aparições.

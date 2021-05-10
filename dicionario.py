@@ -42,3 +42,6 @@ aparicoes = defaultdict(int)
 minha_palavra = "Meu nome é Filipe, o seu nome é Carlos"
 aparicoes_contador = Counter(minha_palavra.lower().split())
 print(aparicoes_contador)
+
+#Apresentando os 2 mais comuns
+print(aparicoes_contador.most_common(2))
