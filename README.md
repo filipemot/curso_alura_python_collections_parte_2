@@ -7,3 +7,7 @@
 - Utilizar o & para juntar apenas números que estão no mesmo conjunto;
 - Utilizar o - para remover números repetidos que estão no em dois conjuntos;
 - O que é ou (^) exclusivo.
+- Modificar o conjunto em tempo real;
+- Congelar o conjunto com o frozenset;
+- Tirar a duplicidade de uma String;
+- Adicionar elementos no conjunto.
